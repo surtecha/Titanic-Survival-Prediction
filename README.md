@@ -1,2 +1,3 @@
-# Titanic_Survival_Prediction
-Titanic ML contest
+# Titanic Survival Prediction
+
+Titanic ML contest from Kaggle
